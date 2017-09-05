@@ -5,6 +5,7 @@ Rectangle {
     property alias play: play
     property alias movie: movie
 
+    id: rec
     width: 360
     height: 360
 

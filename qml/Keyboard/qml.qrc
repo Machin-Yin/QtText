@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>MusicRectangle.qml</file>
+        <file>PlayRectangle.qml</file>
+        <file>MovieRectangle.qml</file>
+    </qresource>
+</RCC>

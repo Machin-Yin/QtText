@@ -1,9 +1,6 @@
 import QtQuick 2.4
 
 Rectangle {
-    property alias music: music
-    property alias play: play
-    property alias movie: movie
 
     id: rec
     width: 360
